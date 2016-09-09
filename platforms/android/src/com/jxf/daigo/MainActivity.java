@@ -29,6 +29,7 @@ public class MainActivity extends CordovaActivity
     {
         super.onCreate(savedInstanceState);
         // Set by <content src="index.html" /> in config.xml
-        loadUrl("http://www.daidai2u.com/we_account/live-room?fromapp=1#billSystem");
+//        loadUrl("http://www.daidai2u.com/we_account/live-room?fromapp=1#billSystem");
+        loadUrl("file:///android_asset/www/index.html");
     }
 }

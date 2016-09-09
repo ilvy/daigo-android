@@ -211,7 +211,14 @@ module.exports = [
         "clobbers": [
             "window.FileTransfer"
         ]
-    }
+    },
+     {
+         "file": "plugins/custom-plugin-screenshot/ScreenShot.js",
+         "id": "custom-plugin-screenshot.ScreenShot",
+         "clobbers": [
+             "window.ScreenShot"
+         ]
+     }
 ];
 module.exports.metadata = 
 // TOP OF METADATA
