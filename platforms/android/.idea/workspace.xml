@@ -31,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jxf/daigo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.2852853">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScreenShot.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ScreenShot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jxf/daigo/customplugins/ScreenShot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.329653">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.466667">
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,31 +55,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CordovaActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaActivity.java">
+      <file leaf-file-name="File.java" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Users/gogo/AppData/Local/Android/sdk/sources/android-23/java/io/File.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="219" column="24" selection-start-line="219" selection-start-column="24" selection-end-line="219" selection-end-column="24" />
+              <caret line="927" column="19" selection-start-line="927" selection-start-column="19" selection-end-line="927" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CordovaWebView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaWebView.java">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="24" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CordovaWebViewImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaWebViewImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="160" column="17" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
+            <state vertical-scroll-proportion="-17.321428">
+              <caret line="49" column="66" selection-start-line="49" selection-start-column="66" selection-end-line="49" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -89,17 +79,7 @@
         <entry file="file://$PROJECT_DIR$/assets/www/cordova.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Notification.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/apache/cordova/dialogs/Notification.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+              <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -109,7 +89,17 @@
         <entry file="file://$PROJECT_DIR$/res/xml/config.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -119,7 +109,17 @@
         <entry file="file://$PROJECT_DIR$/assets/www/cordova_plugins.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="201" column="6" selection-start-line="201" selection-start-column="6" selection-end-line="201" selection-end-column="6" />
+              <caret line="222" column="26" selection-start-line="222" selection-start-column="26" selection-end-line="222" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenShot.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/www/plugins/custom-plugin-screenshot/ScreenShot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -129,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/assets/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1666,10 +1666,13 @@
       <list>
         <option value="$PROJECT_DIR$/assets/www/cordova-js-src/platform.js" />
         <option value="$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaWebViewImpl.java" />
-        <option value="$PROJECT_DIR$/assets/www/js/index.js" />
         <option value="$PROJECT_DIR$/res/xml/config.xml" />
-        <option value="$PROJECT_DIR$/src/com/jxf/daigo/MainActivity.java" />
+        <option value="$PROJECT_DIR$/assets/www/index.html" />
+        <option value="$PROJECT_DIR$/assets/www/css/index.css" />
+        <option value="$PROJECT_DIR$/assets/www/js/index.js" />
+        <option value="$PROJECT_DIR$/assets/www/plugins/custom-plugin-screenshot/ScreenShot.js" />
         <option value="$PROJECT_DIR$/src/com/jxf/daigo/customplugins/ScreenShot.java" />
+        <option value="$PROJECT_DIR$/src/com/jxf/daigo/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -1722,6 +1725,286 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="android" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom-plugin-screenshot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cordova-js-src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cordova" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cordova" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="camera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daigo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daigo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customplugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CordovaLib" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1918,15 +2201,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24915062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21291053" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1935,19 +2219,18 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2139785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2139785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1968,63 +2251,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/www/cordova_plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="201" column="6" selection-start-line="201" selection-start-column="6" selection-end-line="201" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jxf/daigo/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="219" column="24" selection-start-line="219" selection-start-column="24" selection-end-line="219" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaWebView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaWebViewImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="160" column="17" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/www/cordova.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2037,7 +2263,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
-          <folding />
+          <folding>
+            <element signature="e#0#22413#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4782#5755#0" expanded="false" />
+            <element signature="e#5754#5755#0" expanded="false" />
+            <element signature="e#6305#7463#0" expanded="false" />
+            <element signature="e#6705#7042#0" expanded="false" />
+            <element signature="e#7041#7042#0" expanded="false" />
+            <element signature="e#7085#7393#0" expanded="false" />
+            <element signature="e#7392#7393#0" expanded="false" />
+            <element signature="e#7462#7463#0" expanded="false" />
+            <element signature="e#8344#11273#0" expanded="false" />
+            <element signature="e#8877#9234#0" expanded="false" />
+            <element signature="e#9233#9234#0" expanded="false" />
+            <element signature="e#9607#9964#0" expanded="false" />
+            <element signature="e#9963#9964#0" expanded="false" />
+            <element signature="e#10338#10691#0" expanded="false" />
+            <element signature="e#10690#10691#0" expanded="false" />
+            <element signature="e#10895#11203#0" expanded="false" />
+            <element signature="e#11202#11203#0" expanded="false" />
+            <element signature="e#11272#11273#0" expanded="false" />
+            <element signature="e#12302#17209#0" expanded="false" />
+            <element signature="e#13120#13951#0" expanded="false" />
+            <element signature="e#13950#13951#0" expanded="false" />
+            <element signature="e#14324#15145#0" expanded="false" />
+            <element signature="e#15144#15145#0" expanded="false" />
+            <element signature="e#15519#16340#0" expanded="false" />
+            <element signature="e#16339#16340#0" expanded="false" />
+            <element signature="e#16544#17139#0" expanded="false" />
+            <element signature="e#17138#17139#0" expanded="false" />
+            <element signature="e#17208#17209#0" expanded="false" />
+            <element signature="e#17771#18640#0" expanded="false" />
+            <element signature="e#18325#18563#0" expanded="false" />
+            <element signature="e#18562#18563#0" expanded="false" />
+            <element signature="e#18639#18640#0" expanded="false" />
+            <element signature="e#19436#20457#0" expanded="false" />
+            <element signature="e#20140#20379#0" expanded="false" />
+            <element signature="e#20378#20379#0" expanded="false" />
+            <element signature="e#20456#20457#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2102,7 +2367,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="157" column="43" selection-start-line="157" selection-start-column="43" selection-end-line="157" selection-end-column="43" />
-          <folding />
+          <folding>
+            <element signature="e#0#21306#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4890#4891#0" expanded="false" />
+            <element signature="e#4928#4929#0" expanded="false" />
+            <element signature="e#7465#7466#0" expanded="false" />
+            <element signature="e#7507#7508#0" expanded="false" />
+            <element signature="e#11282#11283#0" expanded="false" />
+            <element signature="e#11324#11325#0" expanded="false" />
+            <element signature="e#11686#11687#0" expanded="false" />
+            <element signature="e#11722#11723#0" expanded="false" />
+            <element signature="e#11785#11786#0" expanded="false" />
+            <element signature="e#11819#11820#0" expanded="false" />
+            <element signature="e#11887#11888#0" expanded="false" />
+            <element signature="e#11935#11936#0" expanded="false" />
+            <element signature="e#11998#11999#0" expanded="false" />
+            <element signature="e#12032#12033#0" expanded="false" />
+            <element signature="e#12092#12093#0" expanded="false" />
+            <element signature="e#12121#12122#0" expanded="false" />
+            <element signature="e#12163#12164#0" expanded="false" />
+            <element signature="e#12202#12203#0" expanded="false" />
+            <element signature="e#12250#12251#0" expanded="false" />
+            <element signature="e#12302#12303#0" expanded="false" />
+            <element signature="e#13426#13427#0" expanded="false" />
+            <element signature="e#13480#13481#0" expanded="false" />
+            <element signature="e#13683#13684#0" expanded="false" />
+            <element signature="e#13721#13722#0" expanded="false" />
+            <element signature="e#13878#13879#0" expanded="false" />
+            <element signature="e#13919#13920#0" expanded="false" />
+            <element signature="e#13965#13966#0" expanded="false" />
+            <element signature="e#14000#14001#0" expanded="false" />
+            <element signature="e#14071#14072#0" expanded="false" />
+            <element signature="e#14106#14107#0" expanded="false" />
+            <element signature="e#14154#14155#0" expanded="false" />
+            <element signature="e#14191#14192#0" expanded="false" />
+            <element signature="e#14241#14242#0" expanded="false" />
+            <element signature="e#14279#14280#0" expanded="false" />
+            <element signature="e#16623#16624#0" expanded="false" />
+            <element signature="e#16663#16664#0" expanded="false" />
+            <element signature="e#18244#18245#0" expanded="false" />
+            <element signature="e#18360#18361#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2118,7 +2424,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
-          <folding />
+          <folding>
+            <element signature="e#0#22413#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4782#5755#0" expanded="false" />
+            <element signature="e#5754#5755#0" expanded="false" />
+            <element signature="e#6305#7463#0" expanded="false" />
+            <element signature="e#6705#7042#0" expanded="false" />
+            <element signature="e#7041#7042#0" expanded="false" />
+            <element signature="e#7085#7393#0" expanded="false" />
+            <element signature="e#7392#7393#0" expanded="false" />
+            <element signature="e#7462#7463#0" expanded="false" />
+            <element signature="e#8344#11273#0" expanded="false" />
+            <element signature="e#8877#9234#0" expanded="false" />
+            <element signature="e#9233#9234#0" expanded="false" />
+            <element signature="e#9607#9964#0" expanded="false" />
+            <element signature="e#9963#9964#0" expanded="false" />
+            <element signature="e#10338#10691#0" expanded="false" />
+            <element signature="e#10690#10691#0" expanded="false" />
+            <element signature="e#10895#11203#0" expanded="false" />
+            <element signature="e#11202#11203#0" expanded="false" />
+            <element signature="e#11272#11273#0" expanded="false" />
+            <element signature="e#12302#17209#0" expanded="false" />
+            <element signature="e#13120#13951#0" expanded="false" />
+            <element signature="e#13950#13951#0" expanded="false" />
+            <element signature="e#14324#15145#0" expanded="false" />
+            <element signature="e#15144#15145#0" expanded="false" />
+            <element signature="e#15519#16340#0" expanded="false" />
+            <element signature="e#16339#16340#0" expanded="false" />
+            <element signature="e#16544#17139#0" expanded="false" />
+            <element signature="e#17138#17139#0" expanded="false" />
+            <element signature="e#17208#17209#0" expanded="false" />
+            <element signature="e#17771#18640#0" expanded="false" />
+            <element signature="e#18325#18563#0" expanded="false" />
+            <element signature="e#18562#18563#0" expanded="false" />
+            <element signature="e#18639#18640#0" expanded="false" />
+            <element signature="e#19436#20457#0" expanded="false" />
+            <element signature="e#20140#20379#0" expanded="false" />
+            <element signature="e#20378#20379#0" expanded="false" />
+            <element signature="e#20456#20457#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2183,7 +2528,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="136" column="25" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="25" />
-          <folding />
+          <folding>
+            <element signature="e#0#21306#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4890#4891#0" expanded="false" />
+            <element signature="e#4928#4929#0" expanded="false" />
+            <element signature="e#7465#7466#0" expanded="false" />
+            <element signature="e#7507#7508#0" expanded="false" />
+            <element signature="e#11282#11283#0" expanded="false" />
+            <element signature="e#11324#11325#0" expanded="false" />
+            <element signature="e#11686#11687#0" expanded="false" />
+            <element signature="e#11722#11723#0" expanded="false" />
+            <element signature="e#11785#11786#0" expanded="false" />
+            <element signature="e#11819#11820#0" expanded="false" />
+            <element signature="e#11887#11888#0" expanded="false" />
+            <element signature="e#11935#11936#0" expanded="false" />
+            <element signature="e#11998#11999#0" expanded="false" />
+            <element signature="e#12032#12033#0" expanded="false" />
+            <element signature="e#12092#12093#0" expanded="false" />
+            <element signature="e#12121#12122#0" expanded="false" />
+            <element signature="e#12163#12164#0" expanded="false" />
+            <element signature="e#12202#12203#0" expanded="false" />
+            <element signature="e#12250#12251#0" expanded="false" />
+            <element signature="e#12302#12303#0" expanded="false" />
+            <element signature="e#13426#13427#0" expanded="false" />
+            <element signature="e#13480#13481#0" expanded="false" />
+            <element signature="e#13683#13684#0" expanded="false" />
+            <element signature="e#13721#13722#0" expanded="false" />
+            <element signature="e#13878#13879#0" expanded="false" />
+            <element signature="e#13919#13920#0" expanded="false" />
+            <element signature="e#13965#13966#0" expanded="false" />
+            <element signature="e#14000#14001#0" expanded="false" />
+            <element signature="e#14071#14072#0" expanded="false" />
+            <element signature="e#14106#14107#0" expanded="false" />
+            <element signature="e#14154#14155#0" expanded="false" />
+            <element signature="e#14191#14192#0" expanded="false" />
+            <element signature="e#14241#14242#0" expanded="false" />
+            <element signature="e#14279#14280#0" expanded="false" />
+            <element signature="e#16623#16624#0" expanded="false" />
+            <element signature="e#16663#16664#0" expanded="false" />
+            <element signature="e#18244#18245#0" expanded="false" />
+            <element signature="e#18360#18361#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2199,7 +2585,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#22413#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4782#5755#0" expanded="false" />
+            <element signature="e#5754#5755#0" expanded="false" />
+            <element signature="e#6305#7463#0" expanded="false" />
+            <element signature="e#6705#7042#0" expanded="false" />
+            <element signature="e#7041#7042#0" expanded="false" />
+            <element signature="e#7085#7393#0" expanded="false" />
+            <element signature="e#7392#7393#0" expanded="false" />
+            <element signature="e#7462#7463#0" expanded="false" />
+            <element signature="e#8344#11273#0" expanded="false" />
+            <element signature="e#8877#9234#0" expanded="false" />
+            <element signature="e#9233#9234#0" expanded="false" />
+            <element signature="e#9607#9964#0" expanded="false" />
+            <element signature="e#9963#9964#0" expanded="false" />
+            <element signature="e#10338#10691#0" expanded="false" />
+            <element signature="e#10690#10691#0" expanded="false" />
+            <element signature="e#10895#11203#0" expanded="false" />
+            <element signature="e#11202#11203#0" expanded="false" />
+            <element signature="e#11272#11273#0" expanded="false" />
+            <element signature="e#12302#17209#0" expanded="false" />
+            <element signature="e#13120#13951#0" expanded="false" />
+            <element signature="e#13950#13951#0" expanded="false" />
+            <element signature="e#14324#15145#0" expanded="false" />
+            <element signature="e#15144#15145#0" expanded="false" />
+            <element signature="e#15519#16340#0" expanded="false" />
+            <element signature="e#16339#16340#0" expanded="false" />
+            <element signature="e#16544#17139#0" expanded="false" />
+            <element signature="e#17138#17139#0" expanded="false" />
+            <element signature="e#17208#17209#0" expanded="false" />
+            <element signature="e#17771#18640#0" expanded="false" />
+            <element signature="e#18325#18563#0" expanded="false" />
+            <element signature="e#18562#18563#0" expanded="false" />
+            <element signature="e#18639#18640#0" expanded="false" />
+            <element signature="e#19436#20457#0" expanded="false" />
+            <element signature="e#20140#20379#0" expanded="false" />
+            <element signature="e#20378#20379#0" expanded="false" />
+            <element signature="e#20456#20457#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2272,29 +2697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/cordova.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2311,19 +2713,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/cordova_plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="201" column="6" selection-start-line="201" selection-start-column="6" selection-end-line="201" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/cordova/dialogs/Notification.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
-          <folding />
+          <folding>
+            <element signature="e#0#22413#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4782#5755#0" expanded="false" />
+            <element signature="e#5754#5755#0" expanded="false" />
+            <element signature="e#6305#7463#0" expanded="false" />
+            <element signature="e#6705#7042#0" expanded="false" />
+            <element signature="e#7041#7042#0" expanded="false" />
+            <element signature="e#7085#7393#0" expanded="false" />
+            <element signature="e#7392#7393#0" expanded="false" />
+            <element signature="e#7462#7463#0" expanded="false" />
+            <element signature="e#8344#11273#0" expanded="false" />
+            <element signature="e#8877#9234#0" expanded="false" />
+            <element signature="e#9233#9234#0" expanded="false" />
+            <element signature="e#9607#9964#0" expanded="false" />
+            <element signature="e#9963#9964#0" expanded="false" />
+            <element signature="e#10338#10691#0" expanded="false" />
+            <element signature="e#10690#10691#0" expanded="false" />
+            <element signature="e#10895#11203#0" expanded="false" />
+            <element signature="e#11202#11203#0" expanded="false" />
+            <element signature="e#11272#11273#0" expanded="false" />
+            <element signature="e#12302#17209#0" expanded="false" />
+            <element signature="e#13120#13951#0" expanded="false" />
+            <element signature="e#13950#13951#0" expanded="false" />
+            <element signature="e#14324#15145#0" expanded="false" />
+            <element signature="e#15144#15145#0" expanded="false" />
+            <element signature="e#15519#16340#0" expanded="false" />
+            <element signature="e#16339#16340#0" expanded="false" />
+            <element signature="e#16544#17139#0" expanded="false" />
+            <element signature="e#17138#17139#0" expanded="false" />
+            <element signature="e#17208#17209#0" expanded="false" />
+            <element signature="e#17771#18640#0" expanded="false" />
+            <element signature="e#18325#18563#0" expanded="false" />
+            <element signature="e#18562#18563#0" expanded="false" />
+            <element signature="e#18639#18640#0" expanded="false" />
+            <element signature="e#19436#20457#0" expanded="false" />
+            <element signature="e#20140#20379#0" expanded="false" />
+            <element signature="e#20378#20379#0" expanded="false" />
+            <element signature="e#20456#20457#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2331,14 +2764,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="160" column="17" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#21306#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4890#4891#0" expanded="false" />
+            <element signature="e#4928#4929#0" expanded="false" />
+            <element signature="e#7465#7466#0" expanded="false" />
+            <element signature="e#7507#7508#0" expanded="false" />
+            <element signature="e#11282#11283#0" expanded="false" />
+            <element signature="e#11324#11325#0" expanded="false" />
+            <element signature="e#11686#11687#0" expanded="false" />
+            <element signature="e#11722#11723#0" expanded="false" />
+            <element signature="e#11785#11786#0" expanded="false" />
+            <element signature="e#11819#11820#0" expanded="false" />
+            <element signature="e#11887#11888#0" expanded="false" />
+            <element signature="e#11935#11936#0" expanded="false" />
+            <element signature="e#11998#11999#0" expanded="false" />
+            <element signature="e#12032#12033#0" expanded="false" />
+            <element signature="e#12092#12093#0" expanded="false" />
+            <element signature="e#12121#12122#0" expanded="false" />
+            <element signature="e#12163#12164#0" expanded="false" />
+            <element signature="e#12202#12203#0" expanded="false" />
+            <element signature="e#12250#12251#0" expanded="false" />
+            <element signature="e#12302#12303#0" expanded="false" />
+            <element signature="e#13426#13427#0" expanded="false" />
+            <element signature="e#13480#13481#0" expanded="false" />
+            <element signature="e#13683#13684#0" expanded="false" />
+            <element signature="e#13721#13722#0" expanded="false" />
+            <element signature="e#13878#13879#0" expanded="false" />
+            <element signature="e#13919#13920#0" expanded="false" />
+            <element signature="e#13965#13966#0" expanded="false" />
+            <element signature="e#14000#14001#0" expanded="false" />
+            <element signature="e#14071#14072#0" expanded="false" />
+            <element signature="e#14106#14107#0" expanded="false" />
+            <element signature="e#14154#14155#0" expanded="false" />
+            <element signature="e#14191#14192#0" expanded="false" />
+            <element signature="e#14241#14242#0" expanded="false" />
+            <element signature="e#14279#14280#0" expanded="false" />
+            <element signature="e#16623#16624#0" expanded="false" />
+            <element signature="e#16663#16664#0" expanded="false" />
+            <element signature="e#18244#18245#0" expanded="false" />
+            <element signature="e#18360#18361#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CordovaLib/src/org/apache/cordova/CordovaPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/js/index.js">
+    <entry file="file://$PROJECT_DIR$/src/org/apache/cordova/camera/CameraLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.266666">
+          <caret line="210" column="9" selection-start-line="210" selection-start-column="9" selection-end-line="210" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/gogo/AppData/Local/Android/sdk/sources/android-23/java/io/FileOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="117" column="23" selection-start-line="117" selection-start-column="23" selection-end-line="117" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/gogo/AppData/Local/Android/sdk/sources/android-23/android/graphics/Picture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
           <folding />
         </state>
       </provider>
@@ -2346,25 +2862,73 @@
     <entry file="file://$PROJECT_DIR$/res/xml/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jxf/daigo/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.321428">
+          <caret line="49" column="66" selection-start-line="49" selection-start-column="66" selection-end-line="49" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/cordova.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/cordova_plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="222" column="26" selection-start-line="222" selection-start-column="26" selection-end-line="222" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/plugins/custom-plugin-screenshot/ScreenShot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users/gogo/AppData/Local/Android/sdk/sources/android-23/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="927" column="19" selection-start-line="927" selection-start-column="19" selection-end-line="927" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jxf/daigo/customplugins/ScreenShot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.466667">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jxf/daigo/customplugins/ScreenShot.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jxf/daigo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.329653">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2852853">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
