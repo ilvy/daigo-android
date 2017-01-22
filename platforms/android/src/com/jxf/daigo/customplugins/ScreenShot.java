@@ -93,18 +93,29 @@ public class ScreenShot extends CordovaPlugin {
     }
     private void savePic(Bitmap b) throws FileNotFoundException,IOException{
         FileOutputStream fos = null;
-        String savePath = this.getSDCardPath()+"/daigo/images";
+        String savePath = this.getSDCardPath()+"/daigo";
+//        String savePath = cordova.getActivity().getCacheDir()+"/daigo/images";
+//        String savePath = "/daigo";
+        Toast.makeText(cordova.getActivity().getApplicationContext(), "截屏文件已保存至"+savePath+"下", Toast.LENGTH_LONG).show();
         System.out.println(savePath);
         long timestamp = new Date().getTime();
         String filePath = savePath+"/"+timestamp+".jpg";
+        String txtPath = cordova.getActivity().getCacheDir()+"/"+timestamp+".txt";
             File path = new File(savePath);
             File file = new File(filePath);
+            File txtFile = new File(txtPath);
             if(!path.exists()){
                 path.mkdirs();
             }
+        Toast.makeText(cordova.getActivity().getApplicationContext(), "path ok", Toast.LENGTH_LONG).show();
             if (!file.exists()) {
+                Toast.makeText(cordova.getActivity().getApplicationContext(), "start file", Toast.LENGTH_LONG).show();
                 file.createNewFile();
             }
+            if(!txtFile.exists()){
+                txtFile.createNewFile();
+            }
+        Toast.makeText(cordova.getActivity().getApplicationContext(), "file ok", Toast.LENGTH_LONG).show();
             fos = new FileOutputStream(file);
             if (null != fos) {
                 b.compress(Bitmap.CompressFormat.PNG, 100, fos);

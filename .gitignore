@@ -1,2 +1,8 @@
-platforms/android/.idea
-platforms/android/CordovaLib/build
+.gradle
+/local.properties
+.DS_Store # only needed under mac os
+/build
+/captures
+*.iml
+.idea
+*.apk #optional

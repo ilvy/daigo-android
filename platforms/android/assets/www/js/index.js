@@ -45,7 +45,11 @@ var app = {
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
         document.getElementById("screenshot-btn").addEventListener('click',function(){
-            ScreenShot.shot("shot");
+            ScreenShot.shot("shot",function(success){
+                alert("ok");
+            },function(fail){
+                alert("err:"+fail);
+            });
         },false);
 
         console.log('Received Event: ' + id);
